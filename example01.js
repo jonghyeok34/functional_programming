@@ -8,7 +8,7 @@ const obj = {
 }
 obj.f('Test')
 
-const a =[
+const a =[ 
     m => console.log(m)
 ]
 a[0]('Test')
